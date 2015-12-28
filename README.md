@@ -17,6 +17,7 @@ sudo ln -s "$(which nodejs)" /usr/bin/node
 To build
 
 ```
+npm install
 grunt build
 ```
 
