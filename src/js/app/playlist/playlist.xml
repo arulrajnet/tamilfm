@@ -1,0 +1,16 @@
+<playlist>
+	<track>
+		<title>Bottom Feeders</title>
+		<artist>Snorkel</artist>
+		<mp3>mp3/Bottom Feederz.mp3</mp3>
+		<free>false</free>
+		<duration>2:49</duration>
+	</track>
+	<track>
+		<title>Pizza</title>
+		<artist>Snorkel</artist>
+		<mp3>/mp3/Pizza.mp3</mp3>
+		<free>false</free>
+		<duration>5:38</duration>
+	</track>
+</playlist>
