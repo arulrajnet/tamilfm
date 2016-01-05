@@ -53,19 +53,19 @@ var jsonPlaylist = [
   },
   {
     title: "Lankasri FM",
-    mp3: "http://159.253.131.114:80"
+    mp3: "http://159.253.131.114:80/;stream.nsv"
   },
   {
     title: "Varnam FM",
-    mp3: "http://198.178.123.8:8402"
+    mp3: "http://198.178.123.8:8402/;stream.nsv"
   },
   {
     title: "Chellam FM",
-    mp3: "http://5.63.145.172:7124"
+    mp3: "http://5.63.145.172:7124/;stream.nsv"
   },
   {
     title: "Tamil Kuyil FM",
-    mp3: "http://173.193.219.163:8095"
+    mp3: "http://173.193.219.163:8095/;stream.nsv"
   },
   {
     title: "Vanavil FM",
@@ -73,23 +73,23 @@ var jsonPlaylist = [
   },
   {
     title: "Tamilaruvi FM Live From Norway",
-    mp3: "http://66.90.103.189:8852"
+    mp3: "http://66.90.103.189:8852/;stream.nsv"
   },
   {
     title: "IBC Tamil",
-    mp3: "http://38.96.148.226:6176"
+    mp3: "http://38.96.148.226:6176/;stream.nsv"
   },
   {
     title: "Paris Tamil FM",
-    mp3: "http://198.178.123.17:7108"
+    mp3: "http://198.178.123.17:7108/;stream.nsv"
   },
   {
     title: "Hungama-Tamil-Hits",
-    mp3: "http://123.176.41.8:8632"
+    mp3: "http://123.176.41.8:8632/;stream.nsv"
   },
   {
     title: "Hungama-Tamil-classics",
-    mp3: "http://123.176.41.8:8264"
+    mp3: "http://123.176.41.8:8264/;stream.nsv"
   },
   {
     title: "Thendral World Radio",

@@ -53,19 +53,19 @@
       <title>Radio City Tamil</title>
    </track>
    <track>
-      <mp3>http://159.253.131.114:80</mp3>
+      <mp3>http://159.253.131.114:80/;stream.nsv</mp3>
       <title>Lankasri FM</title>
    </track>
    <track>
-      <mp3>http://198.178.123.8:8402</mp3>
+      <mp3>http://198.178.123.8:8402/;stream.nsv</mp3>
       <title>Varnam FM</title>
    </track>
    <track>
-      <mp3>http://5.63.145.172:7124</mp3>
+      <mp3>http://5.63.145.172:7124/;stream.nsv</mp3>
       <title>Chellam FM</title>
    </track>
    <track>
-      <mp3>http://173.193.219.163:8095</mp3>
+      <mp3>http://173.193.219.163:8095/;stream.nsv</mp3>
       <title>Tamil Kuyil FM</title>
    </track>
    <track>
@@ -73,23 +73,23 @@
       <title>Vanavil FM</title>
    </track>
    <track>
-      <mp3>http://66.90.103.189:8852</mp3>
+      <mp3>http://66.90.103.189:8852/;stream.nsv</mp3>
       <title>Tamilaruvi FM Live From Norway</title>
    </track>
    <track>
-      <mp3>http://38.96.148.226:6176</mp3>
+      <mp3>http://38.96.148.226:6176/;stream.nsv</mp3>
       <title>IBC Tamil</title>
    </track>
    <track>
-      <mp3>http://198.178.123.17:7108</mp3>
+      <mp3>http://198.178.123.17:7108/;stream.nsv</mp3>
       <title>Paris Tamil FM</title>
    </track>
    <track>
-      <mp3>http://123.176.41.8:8632</mp3>
+      <mp3>http://123.176.41.8:8632/;stream.nsv</mp3>
       <title>Hungama-Tamil-Hits</title>
    </track>
    <track>
-      <mp3>http://123.176.41.8:8264</mp3>
+      <mp3>http://123.176.41.8:8264/;stream.nsv</mp3>
       <title>Hungama-Tamil-classics</title>
    </track>
    <track>
