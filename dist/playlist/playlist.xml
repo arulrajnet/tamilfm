@@ -1,16 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist>
-	<track>
-		<title>Bottom Feeders</title>
-		<artist>Snorkel</artist>
-		<mp3>mp3/Bottom Feederz.mp3</mp3>
-		<free>false</free>
-		<duration>2:49</duration>
-	</track>
-	<track>
-		<title>Pizza</title>
-		<artist>Snorkel</artist>
-		<mp3>/mp3/Pizza.mp3</mp3>
-		<free>false</free>
-		<duration>5:38</duration>
-	</track>
+   <track>
+      <mp3>http://streaming.radionomy.com/1234554321</mp3>
+      <title>ARR Lite</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/IRLITE-stream</mp3>
+      <title>Raja Sir Lite</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/IR2IR2IRrdo</mp3>
+      <title>Raja Sir</title>
+   </track>
+   <track>
+      <mp3>http://listen.radionomy.com/IllayarajavinThevitathaPadalgal-</mp3>
+      <title>Illayarajavin Thevitatha Padalgal!</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/hjr-radio</mp3>
+      <title>Harris</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/SPstreamlink</mp3>
+      <title>SPB</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/PPR-radio</mp3>
+      <title>Puthu Paadal</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/arrstream</mp3>
+      <title>YSR</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/Tlr-radio</mp3>
+      <title>Tamil lite</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/ARRahman-Radio</mp3>
+      <title>A.R.Rahman Radio</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/Yuvan-Shankar-Raja-Radio</mp3>
+      <title>Yuvan Shankar Raja Radio</title>
+   </track>
+   <track>
+      <mp3>http://37.130.224.90:80/live</mp3>
+      <title>Mukil App</title>
+   </track>
+   <track>
+      <mp3>http://216.245.201.73:9948/;?icy=http</mp3>
+      <title>Radio City Tamil</title>
+   </track>
+   <track>
+      <mp3>http://159.253.131.114:80/;stream.nsv</mp3>
+      <title>Lankasri FM</title>
+   </track>
+   <track>
+      <mp3>http://198.178.123.8:8402/;stream.nsv</mp3>
+      <title>Varnam FM</title>
+   </track>
+   <track>
+      <mp3>http://5.63.145.172:7124/;stream.nsv</mp3>
+      <title>Chellam FM</title>
+   </track>
+   <track>
+      <mp3>http://173.193.219.163:8095/;stream.nsv</mp3>
+      <title>Tamil Kuyil FM</title>
+   </track>
+   <track>
+      <mp3>http://46.28.53.118:9000/stream</mp3>
+      <title>Vanavil FM</title>
+   </track>
+   <track>
+      <mp3>http://66.90.103.189:8852/;stream.nsv</mp3>
+      <title>Tamilaruvi FM Live From Norway</title>
+   </track>
+   <track>
+      <mp3>http://38.96.148.226:6176/;stream.nsv</mp3>
+      <title>IBC Tamil</title>
+   </track>
+   <track>
+      <mp3>http://198.178.123.17:7108/;stream.nsv</mp3>
+      <title>Paris Tamil FM</title>
+   </track>
+   <track>
+      <mp3>http://123.176.41.8:8632/;stream.nsv</mp3>
+      <title>Hungama-Tamil-Hits</title>
+   </track>
+   <track>
+      <mp3>http://123.176.41.8:8264/;stream.nsv</mp3>
+      <title>Hungama-Tamil-classics</title>
+   </track>
+   <track>
+      <mp3>http://37.187.79.93:9116/stream</mp3>
+      <title>Thendral World Radio</title>
+   </track>
+   <track>
+      <mp3>http://www.geethamradio.com:8020/lofi.mp3</mp3>
+      <title>Geetham Tamil Radio</title>
+   </track>
+   <track>
+      <mp3>http://live64.jiljilradio.com/;stream1.mp3</mp3>
+      <title>Jil Jil Radio</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/TBstream</mp3>
+      <title>Tamil Beat Radio</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/IRYUVIstream</mp3>
+      <title>Raja and Yuvan</title>
+   </track>
+   <track>
+      <mp3>http://streaming.radionomy.com/ILMstream</mp3>
+      <title>Raja and ARR</title>
+   </track>
+   <track>
+      <mp3>http://puradsifm.net:9994/;</mp3>
+      <title>Puradsi FM</title>
+   </track>
+   <track>
+      <mp3>http://listen.radionomy.com/TamburaRadioTamilComedy</mp3>
+      <title>Tambura Radio Tamil Comedy</title>
+   </track>
 </playlist>
