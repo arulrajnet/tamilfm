@@ -31,5 +31,6 @@ Update either the **src/js/app/playlist.js** or .xml file. If you are going to u
 * JPlayer - <a href="https://github.com/happyworm/jPlayer">https://github.com/happyworm/jPlayer</a>
 * Circle Player - <a href="https://github.com/maboa/circleplayer">https://github.com/maboa/circleplayer</a>
 * Responsive JPlayer - <a href="https://github.com/BeyondHyper/responsive-jPlayer">https://github.com/BeyondHyper/responsive-jPlayer</a>
+* Icons pack by - <a href="https://icons8.com">Icons8</a>
 
 Hosted on github pages. Fork of <a href="https://github.com/BeyondHyper/responsive-jPlayer">reponsive jPlayer</a>
