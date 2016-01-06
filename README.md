@@ -28,7 +28,6 @@ Update either the **src/js/app/playlist.js** or .xml file. If you are going to u
 
 ### Desktop App Ubuntu
 
-If you have firefox in your machine
 
 ```
 [Desktop Entry]
@@ -38,7 +37,7 @@ Type=Application
 Name=Tamil Radio
 GenericName=Online Radio
 Comment=Online Radio / FM for tamil songs
-Exec=firefox -width 640 -height 600 -chrome http://tamilfm.arulraj.net
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=http?://tamilfm.arulraj.net/* http://tamilfm.arulraj.net %u
 Icon=/usr/share/icons/tamilradio.png
 StartupNotify=true
 Categories=Player;
@@ -46,11 +45,6 @@ Name[en_IN]=Tamil Radio
 X-Desktop-File-Install-Version=0.22
 ```
 
-If you have chromium in your machine. Chnage the Exec to
-
-```
-Exec=/usr/bin/chromium-browser --profile-directory=Default --app=http://tamilfm.arulraj.net
-```
 
 Create `/usr/share/applications/tamilradio.desktop` with above content and make that file as executable for all. Copy this <a href="http://tamilfm.arulraj.net/favicon-48x48.png">image</a> to /usr/share/icons/tamilradio.png and make readable for all.
 
