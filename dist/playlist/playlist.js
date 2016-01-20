@@ -1,47 +1,67 @@
 var jsonPlaylist = [
   {
-    title: "ARR Lite",
-    mp3: "http://streaming.radionomy.com/1234554321"
+    title: "Raja FM",
+    mp3: "http://108.166.161.221:7154/;stream.mp3"
   },
   {
-    title: "Raja Sir Lite",
+    title: "Ilayaraja FM",
     mp3: "http://streaming.radionomy.com/IRLITE-stream"
   },
   {
-    title: "Raja Sir",
+    title: "Ilayaraja FM - 1",
     mp3: "http://streaming.radionomy.com/IR2IR2IRrdo"
+  },
+  {
+    title: "Ilayaraja FM - 2",
+    mp3: "http://streaming.radionomy.com/IR-link-stream"
   },
   {
     title: "Illayarajavin Thevitatha Padalgal!",
     mp3: "http://listen.radionomy.com/IllayarajavinThevitathaPadalgal-"
   },
   {
-    title: "Harris",
+    title: "A.R Rahman",
+    mp3: "http://streaming.radionomy.com/1234554321"
+  },
+  {
+    title: "A.R Rahman FM",
+    mp3: "https://streaming.radionomy.com/AR-Stream-new"
+  },
+  {
+    title: "Yuvan Shankar Raja Radio",
+    mp3: "http://streaming.radionomy.com/Yuvan-Shankar-Raja-Radio"
+  },  
+  {
+    title: "Harris Jayaraj",
     mp3: "http://streaming.radionomy.com/hjr-radio"
   },
   {
-    title: "SPB",
+    title: "S.P.B",
     mp3: "http://streaming.radionomy.com/SPstreamlink"
   },
+  {
+    title: "K.J.Yesudas",
+    mp3: "http://streaming.radionomy.com/KJJ"
+  },
+  {
+    title: "Raja and Yuvan",
+    mp3: "http://streaming.radionomy.com/IRYUVIstream"
+  },
+  {
+    title: "Raja and ARR",
+    mp3: "http://streaming.radionomy.com/ILMstream"
+  },  
   {
     title: "Puthu Paadal",
     mp3: "http://streaming.radionomy.com/PPR-radio"
   },
   {
-    title: "YSR",
-    mp3: "http://streaming.radionomy.com/arrstream"
+    title: "Palaiya Paadal",
+    mp3: "http://streaming.radionomy.com/Pala"
   },
   {
     title: "Tamil lite",
     mp3: "http://streaming.radionomy.com/Tlr-radio"
-  },
-  {
-    title: "A.R.Rahman Radio",
-    mp3: "http://streaming.radionomy.com/ARRahman-Radio"
-  },
-  {
-    title: "Yuvan Shankar Raja Radio",
-    mp3: "http://streaming.radionomy.com/Yuvan-Shankar-Raja-Radio"
   },
   {
     title: "Mukil App",
@@ -72,6 +92,14 @@ var jsonPlaylist = [
     mp3: "http://46.28.53.118:9000/stream"
   },
   {
+    title: "IsaiSaral FM",
+    mp3: "http://192.241.125.102:8000/;stream.nsv"
+  },
+  {
+    title: "Madras Talkies",
+    mp3: "http://listen.radionomy.com/madrastalkies"
+  },
+  {
     title: "Tamilaruvi FM Live From Norway",
     mp3: "http://66.90.103.189:8852/;stream.nsv"
   },
@@ -84,11 +112,11 @@ var jsonPlaylist = [
     mp3: "http://198.178.123.17:7108/;stream.nsv"
   },
   {
-    title: "Hungama-Tamil-Hits",
+    title: "Hungama Tamil - Hits",
     mp3: "http://123.176.41.8:8632/;stream.nsv"
   },
   {
-    title: "Hungama-Tamil-classics",
+    title: "Hungama Tamil - classics",
     mp3: "http://123.176.41.8:8264/;stream.nsv"
   },
   {
@@ -108,12 +136,8 @@ var jsonPlaylist = [
     mp3: "http://streaming.radionomy.com/TBstream"
   },
   {
-    title: "Raja and Yuvan",
-    mp3: "http://streaming.radionomy.com/IRYUVIstream"
-  },
-  {
-    title: "Raja and ARR",
-    mp3: "http://streaming.radionomy.com/ILMstream"
+    title: "Tamil top 40",
+    mp3: "http://streaming.radionomy.com/radio-ap-app"
   },
   {
     title: "Puradsi FM",
