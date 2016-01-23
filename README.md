@@ -46,7 +46,7 @@ X-Desktop-File-Install-Version=0.22
 ```
 
 
-Create `/usr/share/applications/tamilradio.desktop` with above content and make that file as executable for all. Copy this <a href="http://tamilfm.arulraj.net/favicon-48x48.png">image</a> to /usr/share/icons/tamilradio.png and make readable for all.
+Create `/usr/share/applications/tamilradio.desktop` with above content and make that file as executable for all. Copy this <a href="http://tamilfm.arulraj.net/img/favicon-48x48.png">image</a> to /usr/share/icons/tamilradio.png and make readable for all.
 
 ### All thanks goes to
 
