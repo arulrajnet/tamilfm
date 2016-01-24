@@ -40,4 +40,4 @@ def reserve():
 
 def publish():
     rebuild()
-    local('./deploy.sh --config-file=deploy.conf')
+    local('./deploy.sh --config-file deploy.conf --message "rebuilding site "')
