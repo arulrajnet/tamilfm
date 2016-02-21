@@ -53,7 +53,7 @@ var jsonPlaylist = [
   },  
   {
     title: "Puthu Paadal",
-    mp3: "http://streaming.radionomy.com/PPR-radio"
+    mp3: "http://66.55.145.43:7251/;?1456057491083.mp3"
   },
   {
     title: "Palaiya Paadal",
